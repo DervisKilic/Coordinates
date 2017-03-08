@@ -1,0 +1,2 @@
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\bin\Release\Labb1.exe
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\obj\x86\Release\Labb1.exe

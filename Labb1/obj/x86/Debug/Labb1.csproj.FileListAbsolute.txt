@@ -1,0 +1,5 @@
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\bin\Debug\Labb1.exe
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\bin\Debug\Labb1.pdb
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\obj\x86\Debug\Labb1.csprojResolveAssemblyReference.cache
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\obj\x86\Debug\Labb1.exe
+C:\Users\dervi\Downloads\Projects\Labb1\Labb1\obj\x86\Debug\Labb1.pdb
